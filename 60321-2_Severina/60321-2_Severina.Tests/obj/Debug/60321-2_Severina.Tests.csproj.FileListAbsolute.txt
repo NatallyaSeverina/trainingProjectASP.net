@@ -1,0 +1,140 @@
+d:\Учеба иит\4 threemonth\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\obj\Debug\60321-2_Severina.Tests.csprojResolveAssemblyReference.cache
+E:\Учеба иит\4 threemonth\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\obj\Debug\60321-2_Severina.Tests.csprojResolveAssemblyReference.cache
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\obj\Debug\60321-2_Severina.Tests.csprojResolveAssemblyReference.cache
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\ApplicationInsights.config
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.Tests.dll.config
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.Tests.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.Tests.pdb
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\CAR.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Castle.Core.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Moq.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Newtonsoft.Json.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Helpers.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Mvc.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Razor.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Optimization.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Security.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Owin.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Ninject.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\EntityFramework.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.pdb
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.dll.config
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\CAR.pdb
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\CAR.dll.config
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Castle.Core.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Moq.pdb
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Moq.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Newtonsoft.Json.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Helpers.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Mvc.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Razor.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Optimization.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Security.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Ninject.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\EntityFramework.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\obj\Debug\60321-2_Severina.Tests.dll
+G:\ВебТехнологии\лаб1\60321-2_Severina\60321-2_Severina.Tests\obj\Debug\60321-2_Severina.Tests.pdb
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\ApplicationInsights.config
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\csc.exe
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\csc.exe.config
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\csc.rsp
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\csi.exe
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\csi.rsp
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\System.AppContext.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\System.Diagnostics.StackTrace.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\System.IO.FileSystem.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\vbc.exe
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\vbc.exe.config
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\vbc.rsp
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.Tests.dll.config
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.Tests.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.Tests.pdb
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\CAR.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Castle.Core.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Web.Infrastructure.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Moq.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Helpers.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Mvc.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Razor.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.Deployment.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.Razor.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Optimization.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Security.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Owin.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Ninject.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\EntityFramework.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.pdb
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\60321-2_Severina.dll.config
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\CAR.pdb
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\CAR.dll.config
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Castle.Core.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Moq.pdb
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Moq.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Newtonsoft.Json.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Helpers.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Mvc.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Razor.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.Deployment.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.WebPages.Razor.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\System.Web.Optimization.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Security.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Ninject.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\EntityFramework.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\Microsoft.Owin.Host.SystemWeb.xml
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\obj\Debug\60321-2_Severina.Tests.csprojResolveAssemblyReference.cache
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\obj\Debug\60321-2_Severina.Tests.dll
+E:\Учеба иит\4 threemonth\ВебТехнологии\07.12\лаб1\60321-2_Severina\60321-2_Severina.Tests\obj\Debug\60321-2_Severina.Tests.pdb

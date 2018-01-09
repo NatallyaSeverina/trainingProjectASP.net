@@ -1,0 +1,60 @@
+﻿@model IEnumerable<string>
+
+@{ var txt = Request.RequestContext.RouteData.Values["group"] ?? "Все года";}
+<h3>Выберите год</h3>
+<div class="btn-group">
+    <button type="button" class="btn btn-default">@txt</button>
+    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+    <span class="caret"></span>
+    </button>
+    <ul class="dropdown-menu" role="menu">
+        <!-- первый элемент в списке - Все года -->
+        <li>
+            <a href="@Url.Action("List","Car")">
+                Все года
+            </a>
+        </li>
+        @*<li>
+            <a href="@Url.Action("List","Car",new
+{group="2003"})">
+                2003
+            </a>
+        </li>
+        <li>
+            <a href="@Url.Action("List","Car",new
+{group="2007"})">
+                2007
+            </a>
+        </li>
+        <li>
+            <a href="@Url.Action("List","Car",new
+{group="2008"})">
+                2008
+            </a>
+        </li>
+        <li>
+            <a href="@Url.Action("List","Car",new
+{group="2009"})">
+                2009
+            </a>
+        </li>
+        <li>
+            <a href="@Url.Action("List","Car",new
+{group="2011"})">
+                2011
+            </a>
+        </li>*@
+        <!-- формирование остального списка -->
+        @{
+            foreach (var item in Model)
+            {
+                <li>
+                    <a href="@Url.Action("List","Car",new
+{group=item})">
+                        @item
+                    </a>
+                </li>
+            }
+        }
+    </ul>
+</div>

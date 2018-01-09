@@ -1,0 +1,33 @@
+﻿@model _60321_2_Severina.Models.PageListViewModel<CAR.Entities.Car>
+    @using System.Text;
+   @{
+       //объект для собирания разметки
+       StringBuilder result = new StringBuilder();
+       var i = 0;
+       TagBuilder row = new TagBuilder("div");
+       foreach (var item in Model)
+       {
+           i++;
+           if (i == 1)//для первого в строке создаем ее
+           {
+               row = new TagBuilder("div");
+               row.AddCssClass("row");
+               row.AddCssClass("item-row");
+           }
+           row.InnerHtml += Html.Partial("ItemViewPartial", item);
+           if (i == 3)//если строчка закончена
+           {
+               result.Append(row.ToString());
+           }
+       }
+       if (i != 3)
+       {
+           result.Append(row.ToString());
+           i = 0;
+       }
+}
+@MvcHtmlString.Create(result.ToString())
+@Html.Partial("PagerPartial", Model)
+  
+   
+ 

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="e:\Учеба иит\4 threemonth\ВебТехнологии\08.12\лаб1\60321-2_Severina\60321-2_Severina\obj\Release\Package\PackageTmp" />
+  <setAcl path="e:\Учеба иит\4 threemonth\ВебТехнологии\08.12\лаб1\60321-2_Severina\60321-2_Severina\obj\Release\Package\PackageTmp" setAclResourceType="Directory" />
+  <setAcl path="e:\Учеба иит\4 threemonth\ВебТехнологии\08.12\лаб1\60321-2_Severina\60321-2_Severina\obj\Release\Package\PackageTmp" setAclUser="anonymousAuthenticationUser" setAclResourceType="Directory" />
+</sitemanifest>

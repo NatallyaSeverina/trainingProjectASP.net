@@ -1,0 +1,13 @@
+﻿@model IEnumerable<_60321_2_Severina.Models.MenuItem>
+<ul class="nav nav-pills">
+      @foreach(var item in Model)
+      {
+          if (item.Name != "Корзина"&& item.Name != "Войти"&& item.Name != "Зарегистрироваться")
+          {
+            <li class="@item.Active">
+                @Html.ActionLink(item.Name, item.Action, item.Controller)
+            </li>
+          }
+
+      }
+    </ul>

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60321-2_Severina.Tests", "60321-2_Severina.Tests\60321-2_Severina.Tests.csproj", "{052C6158-1A64-4C3D-A87A-17F14A0BC804}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60321-2_Severina", "60321-2_Severina\60321-2_Severina.csproj", "{3357C41A-7611-4417-A195-0F57A16D6D7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAR.DAL", "CAR\CAR.DAL.csproj", "{8C5384E6-F6AF-4C5E-AD49-AD5BFF2DA4B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{052C6158-1A64-4C3D-A87A-17F14A0BC804}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{052C6158-1A64-4C3D-A87A-17F14A0BC804}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{052C6158-1A64-4C3D-A87A-17F14A0BC804}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{052C6158-1A64-4C3D-A87A-17F14A0BC804}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3357C41A-7611-4417-A195-0F57A16D6D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3357C41A-7611-4417-A195-0F57A16D6D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3357C41A-7611-4417-A195-0F57A16D6D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3357C41A-7611-4417-A195-0F57A16D6D7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C5384E6-F6AF-4C5E-AD49-AD5BFF2DA4B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C5384E6-F6AF-4C5E-AD49-AD5BFF2DA4B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C5384E6-F6AF-4C5E-AD49-AD5BFF2DA4B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C5384E6-F6AF-4C5E-AD49-AD5BFF2DA4B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

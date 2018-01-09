@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="DefaultConnection-Web.config Connection String" description="DefaultConnection Строка подключения в web.config, используемая приложением для доступа к базе данных." defaultValue="Data Source=(LocalDb)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\aspnet-60321-2_Severina-20170915074212.mdf;Initial Catalog=aspnet-60321-2_Severina-20170915074212;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="e:\\Учеба\ иит\\4\ threemonth\\ВебТехнологии\\08\.12\\лаб1\\60321-2_Severina\\60321-2_Severina\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='DefaultConnection']/@connectionString" />
+  </parameter>
+  <parameter name="CarConnection-Web.config Connection String" description="CarConnection Строка подключения в web.config, используемая приложением для доступа к базе данных." defaultValue="Data Source=NET-HOME;Initial Catalog=Car;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="e:\\Учеба\ иит\\4\ threemonth\\ВебТехнологии\\08\.12\\лаб1\\60321-2_Severina\\60321-2_Severina\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='CarConnection']/@connectionString" />
+  </parameter>
+</parameters>
